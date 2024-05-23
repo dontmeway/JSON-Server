@@ -5,7 +5,7 @@
     "model": "Iphone XS",
     "release_year": "2018",
     "category": {
-      "id": "1",
+      "id": 1,
       "name": "phone"
     },
     "recommended_price": 1000,
@@ -14,18 +14,18 @@
   }
  ],
  "categories": [
-  { "id": "1", "name": "phone" },
-  { "id": "2", "name": "laptop" },
-  { "id": "3", "name": "tablet" },
-  { "id": "4", "name": "monitor" },
-  { "id": "5", "name": "printer" },
-  { "id": "6", "name": "scanner" },
-  { "id": "7", "name": "camera" },
-  { "id": "8", "name": "tv" },
-  { "id": "9", "name": "audio" },
-  { "id": "10", "name": "smartwatch" },
-  { "id": "11", "name": "drone" },
-  { "id": "12", "name": "game console" },
-  { "id": "13", "name": "other" }
+  { "id": 1, "name": "phone" },
+  { "id": 2, "name": "laptop" },
+  { "id": 3, "name": "tablet" },
+  { "id": 4, "name": "monitor" },
+  { "id": 5, "name": "printer" },
+  { "id": 6, "name": "scanner" },
+  { "id": 7, "name": "camera" },
+  { "id": 8, "name": "tv" },
+  { "id": 9, "name": "audio" },
+  { "id": 10, "name": "smartwatch" },
+  { "id": 11, "name": "drone" },
+  { "id": 12, "name": "game console" },
+  { "id": 13, "name": "other" }
 ]
 }
