@@ -4,7 +4,10 @@
     "id": 1,
     "model": "Iphone XS",
     "release_year": "2018",
-    "category": 1,
+    "category": {
+      "id": "1",
+      "name": "phone"
+    },
     "recommended_price": 1000,
     "added_at": "2020-01-01T00:00:00Z",
     "is_visible": true
